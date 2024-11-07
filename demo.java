@@ -1,5 +1,5 @@
 class box{
-    float l,b,w;
+    float l,b,h;
 }
 
 public class demo {
@@ -8,8 +8,8 @@ public class demo {
         box b1=new box();
         b1.b=10;
         b1.l=5;
-        b1.w=10;
-        v=b1.b * b1.l * b1.w;
+        b1.h=10;
+        v=b1.b * b1.l * b1.h;
         System.out.println("Volume "+v);
         // System.out.print(v);
     }
