@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StudentScoreChecker",
+            "request": "launch",
+            "mainClass": "StudentScoreChecker",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
+            "name": "PassFail",
+            "request": "launch",
+            "mainClass": "PassFail",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
+            "name": "class5",
+            "request": "launch",
+            "mainClass": "class5",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
