@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LibraryFine",
+            "request": "launch",
+            "mainClass": "Assignment.LibraryFine",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
+            "name": "RoomRent",
+            "request": "launch",
+            "mainClass": "Assignment.RoomRent",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
+            "name": "StudentDivision",
+            "request": "launch",
+            "mainClass": "Assignment.StudentDivision",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
+            "name": "mtd_overloading",
+            "request": "launch",
+            "mainClass": "mtd_overloading",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
+            "name": "method_overloading",
+            "request": "launch",
+            "mainClass": "method_overloading",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
             "name": "StudentScoreChecker",
             "request": "launch",
             "mainClass": "StudentScoreChecker",
