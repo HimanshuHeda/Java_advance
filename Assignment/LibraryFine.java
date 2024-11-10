@@ -1,3 +1,5 @@
+// 2) Write a program to calculate the room rent of a restaurant depending on the number of stays.
+
 package Assignment;
 
 class Library {

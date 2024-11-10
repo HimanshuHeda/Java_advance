@@ -1,3 +1,6 @@
+// 1) Write a program to calculate the Division of a student, apply constructor overloading and method over overloading 
+// depending on the number of subject. (<50% Fail, 50 -60 % Pass, 60- 74% First Division, Above Distinction)
+
 package Assignment;
 
 class Student {
@@ -7,7 +10,7 @@ class Student {
     // Constructor for a single subject
     public Student(String name, int mark) {
         this.name = name;
-        this.marks = new int[]{mark};
+        this.marks = new int[] { mark };
     }
 
     // Constructor for multiple subjects
@@ -42,10 +45,13 @@ class Student {
 // Example usage
 public class StudentDivision {
     public static void main(String[] args) {
-        Student student1 = new Student("Alice", new int[]{45, 55, 60});
+        Student student2 = new Student("Himanshu", new int[] { 70, 80, 90 });
+        System.out.println(student2.getName() + " has " + student2.calculateDivision() + ".");
+        
+        Student student1 = new Student("Anugraha", new int[] { 45, 55, 60 });
         System.out.println(student1.getName() + " has " + student1.calculateDivision() + ".");
 
-        Student student2 = new Student("Bob", new int[]{70, 80, 90});
-        System.out.println(student2.getName() + " has " + student2.calculateDivision() + ".");
+        Student student3 = new Student("Abhi", new int[] { 10, 40, 30 });
+        System.out.println(student3.getName() + " has " + student3.calculateDivision() + ".");
     }
 }
