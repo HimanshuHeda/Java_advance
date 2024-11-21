@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "specifiers",
+            "request": "launch",
+            "mainClass": "specifiers",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
+            "name": "Specifiers",
+            "request": "launch",
+            "mainClass": "Specifiers",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
+            "name": "objreturn",
+            "request": "launch",
+            "mainClass": "objreturn",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
+            "name": "passadd",
+            "request": "launch",
+            "mainClass": "passadd",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
             "name": "passobj",
             "request": "launch",
             "mainClass": "passobj",
