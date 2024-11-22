@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "inner",
+            "request": "launch",
+            "mainClass": "inner",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
             "name": "sta_var",
             "request": "launch",
             "mainClass": "sta_var",
