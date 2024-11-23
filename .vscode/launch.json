@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "ESE.Employee",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "ESE.Calculator",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
             "name": "inner",
             "request": "launch",
             "mainClass": "inner",
