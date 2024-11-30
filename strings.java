@@ -23,6 +23,9 @@ public class strings {
         // Check if the string starts with a specific prefix
         System.out.println("Checks The string Starts With: " + str.startsWith("Hima"));
         
+        // Check if the string Ends with a specific suffix
+        System.out.println("Checks The string Ends With: " + str.endsWith("eda"));
+        
         // Split the string based on specified regex (comma, period, or whitespace)
         String regex = "[,\\.\\s]+"; // Added + to handle multiple consecutive delimiters
         String[] myArray = str.split(regex);

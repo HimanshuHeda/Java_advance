@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "buffer",
+            "request": "launch",
+            "mainClass": "buffer",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
             "name": "strings",
             "request": "launch",
             "mainClass": "strings",
