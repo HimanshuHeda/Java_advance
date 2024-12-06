@@ -1,6 +1,6 @@
 // modify the above classes include parameter constructor in both. (get both the results) 
 // both default constructor should be executed.
-// parametaized of child and default of parent class constructor should be executed 
+// parametrized of child and default of parent class constructor should be executed 
 // both parameterized of child and parent should get executed 
 // parameterized constructor of parent class and default constructor of child class should get executed 
 
