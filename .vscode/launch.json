@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DemoBoxWeight",
+            "request": "launch",
+            "mainClass": "DemoBoxWeight",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
             "name": "SimpleInheritance",
             "request": "launch",
             "mainClass": "SimpleInheritance",
