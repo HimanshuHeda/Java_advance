@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AbstractMain",
+            "request": "launch",
+            "mainClass": "AbstractMain",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
             "name": "Override",
             "request": "launch",
             "mainClass": "Override",
