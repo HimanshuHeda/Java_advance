@@ -1,6 +1,8 @@
 // Use inheritance concept. create a class and enter marks of 3 core subjects and calculate total marks and percentage.
 // create a derived class that has 2 elective subjects and calculate total marks and percentage of 2 students.
 
+package ESE2;
+
 // Base class for Core Subjects
 class CoreSubjects {
     int marks1, marks2, marks3;

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ESE2.Main",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
+            "name": "StudentMarks",
+            "request": "launch",
+            "mainClass": "ESE2.StudentMarks",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
             "name": "Basics",
             "request": "launch",
             "mainClass": "Basics",

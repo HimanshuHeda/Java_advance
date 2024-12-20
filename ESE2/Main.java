@@ -3,6 +3,8 @@
 // 2. Create another derived class2 that has 't' variable and multiply x,y,t; 
 // 3. Create derived class 3 that inherits derived class1 and has 'd' variable and calculate (d*(x+y+z))
 
+package ESE2;
+
 // Base class
 class Base {
     int x;
