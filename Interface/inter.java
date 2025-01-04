@@ -29,5 +29,9 @@ public class inter {
         Rectangle rectangle = new Rectangle(5, 6);
         System.out.println("Area of Rectangle: " + rectangle.calculateArea());
         System.out.println("Perimeter of Rectangle: " + rectangle.calculatePerimeter());
+
+        Shape rect = new Rectangle(10, 20);
+        System.out.println("Area of Rectangle: " + rect.calculateArea());
+        System.out.println("Perimeter of Rectangle: " + rect.calculatePerimeter());
     }
 }
