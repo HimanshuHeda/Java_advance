@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "thread_priority",
+            "request": "launch",
+            "mainClass": "Thread.thread_priority",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Interface.Main",
