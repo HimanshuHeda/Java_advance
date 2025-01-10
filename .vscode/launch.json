@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "swings2",
+            "request": "launch",
+            "mainClass": "Swings.swings2",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
             "name": "thread_interface",
             "request": "launch",
             "mainClass": "Thread.thread_interface",
