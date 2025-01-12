@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "Threads_and_Swings.Login",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
+            "name": "Synchronization_thread",
+            "request": "launch",
+            "mainClass": "Threads_and_Swings.Synchronization_thread",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
+            "name": "Thread_priority",
+            "request": "launch",
+            "mainClass": "Threads_and_Swings.Thread_priority",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
             "name": "swings2",
             "request": "launch",
             "mainClass": "Swings.swings2",

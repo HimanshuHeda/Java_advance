@@ -18,6 +18,7 @@ class MyThread2 extends Thread{
         }
     }
 }
+
 public class thread_priority {
     public static void main(String[] args) {
         MyThread1 t1 = new MyThread1();
