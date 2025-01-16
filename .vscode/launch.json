@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TabbedPaneEvent",
+            "request": "launch",
+            "mainClass": "Tabnedpane_and_Event.TabbedPaneEvent",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
+            "name": "TabbedPane",
+            "request": "launch",
+            "mainClass": "Tabnedpane_and_Event.TabbedPane",
+            "projectName": "JAVA_1e79d41f"
+        },
+        {
+            "type": "java",
             "name": "Login",
             "request": "launch",
             "mainClass": "Threads_and_Swings.Login",
